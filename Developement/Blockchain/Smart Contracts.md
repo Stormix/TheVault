@@ -13,6 +13,9 @@
 
 ## Useful Websites
 - ETH Gas Station: Etherium gas fees listing https://ethgasstation.info/ [[etherium]]
+- [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address 
+- [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
+- More EcoSystem Resources: https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md 
 
 
 
