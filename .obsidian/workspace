@@ -7,8 +7,11 @@
         "id": "401bf4101ed96819",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Developement/Blockchain/Smart Contracts.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,8 +107,8 @@
   "active": "401bf4101ed96819",
   "lastOpenFiles": [
     "Developement/Blockchain/Smart Contracts.md",
-    "library.md",
     "README.md",
+    "library.md",
     "Developement/Blockchain/Untitled.md",
     "Untitled.md"
   ]

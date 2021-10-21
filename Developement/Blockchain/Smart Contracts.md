@@ -18,3 +18,7 @@
 
 ## Tutorials
 - Development environment setup:  https://medium.com/blockchain-developer/setting-up-a-professional-development-environment-for-ethereum-smart-contracts-development-77399a20f878 
+- Solidity By Example: https://solidity-by-example.org/ [[solidity]]
+- NFT/ERC-721/Collectible END-TO-END TUTORIAL: [[NFTs]]
+	-  https://www.youtube.com/watch?v=p36tXHX1JD8 [[Youtube]]
+	-  https://betterprogramming.pub/how-to-create-nfts-with-solidity-4fa1398eb70a?sk=a9b1771078d49e49289d8107a23d62f1&source=friends_link&gi=cae45876cf3c [[Medium]]
