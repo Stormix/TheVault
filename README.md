@@ -11,8 +11,8 @@ P.S:
  - The repo is updated automatically by the obsidian-git plugin, so the commits won't be that meaningfull.
 
 
-## ToDo
-- Reorganize notes  (The [P.A.R.A. method](https://fortelabs.co/blog/para/) looks interesting)
+## To do
+-[] Reorganize notes  (The [P.A.R.A. method](https://fortelabs.co/blog/para/) looks interesting)
 - Publish vault as a publicly available website (using [Quartz](https://github.com/jackyzha0/quartz) maybe?)
 - List all enabled plugins
 
