@@ -1,3 +1,4 @@
 {
-  "communityPluginSortOrder": "download"
+  "communityPluginSortOrder": "download",
+  "readableLineLength": false
 }
