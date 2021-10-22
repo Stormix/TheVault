@@ -1,1 +1,0 @@
-<<% tp.system.clipboard() %>><% tp.file.cursor(0)%>

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/mark.md",
+            "file": "Templates/Thought.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/mark.md",
+                "file": "Templates/Thought.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
-    "Templates/mark.md",
-    "Templates/Lorem.md",
-    "Templates/dataview.md",
-    "Templates/comment.md",
+    "Templates/Thought.md",
     "Templates/Book Note.md",
-    "Templates/ABC.md",
-    "Templates/Meta.md",
-    "3. Resources/Reading/Untitled.md",
-    "README.md",
-    "1. Projects/TODO.md"
+    "4. Archive/PARA Starter Kit/Outline.md",
+    "Templates/Podcast.md",
+    "Templates/Temporal/time.md",
+    "Templates/Temporal/Now.md",
+    "Templates/Temporal/monthly.md",
+    "Templates/Temporal/Date.md",
+    "Templates/Temporal/Daily.md",
+    "Templates/Temporal/Annual Note.md"
   ]
 }
