@@ -2,5 +2,8 @@
   "obsidian-git",
   "obsidian-mind-map",
   "nldates-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "url-into-selection",
+  "folder-note-plugin",
+  "dataview"
 ]

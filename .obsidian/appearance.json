@@ -1,3 +1,5 @@
 {
-  "baseFontSize": 24
+  "baseFontSize": 24,
+  "cssTheme": "Yin and Yang",
+  "translucency": false
 }
