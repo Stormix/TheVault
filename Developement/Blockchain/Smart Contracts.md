@@ -10,8 +10,8 @@
 - Geth: https://geth.ethereum.org/ [[network]]
 - Mist ETH Wallet: https://github.com/ethereum/mist/releases [[wallet]]
 - Typescript bindings: https://github.com/dethcrypto/TypeChain 
-- OpenZeppelin Test Helpers for [chai](https://www.chaijs.com/): https://docs.openzeppelin.com/test-helpers/0.5/api [[testing]]
-- Op
+- OpenZeppelin Test Helpers: https://docs.openzeppelin.com/test-helpers/0.5/api [[testing]]
+- OpenZeppelin Test Environment: https://docs.openzeppelin.com/test-environment/0.1/
 
 
 ## Useful Websites
