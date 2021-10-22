@@ -7,8 +7,11 @@
         "id": "0be70fdd75339687",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,8 +120,8 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
-    "Connecting to public test networks - OpenZeppelin Docs.md",
     "README.md",
+    "Connecting to public test networks - OpenZeppelin Docs.md",
     "3. Resources/Gaming/Interesting games.md",
     "1. Projects/Yogalive NFT/About.md",
     "2..md",
