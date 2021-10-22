@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "401bf4101ed96819",
+        "id": "bd4c4689cff199fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Developement/Blockchain/Smart Contracts.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +100,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "401bf4101ed96819",
+  "active": "bd4c4689cff199fc",
   "lastOpenFiles": [
+    "README.md",
     "Developement/Blockchain/Smart Contracts.md",
     "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
     "testing.md",
@@ -113,7 +110,6 @@
     "library.md",
     "etherium.md",
     "Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
-    "README.md",
     "Developement/Blockchain/Untitled.md",
     "Untitled.md"
   ]
