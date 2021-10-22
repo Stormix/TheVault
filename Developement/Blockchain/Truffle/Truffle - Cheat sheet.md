@@ -30,3 +30,9 @@
 	```bash
 	npx truffle console --network development
 	```
+	
+- Run JS scripts
+	```bash
+	npx truffle exec --network development ./scripts/index.js
+	```
+	
