@@ -9,4 +9,5 @@ Still a WIP since I need to migrate all my notes from OneNote.
 
 
 ## To Do:
+- Reorganize notes  (The [P.A.R.A. method](https://fortelabs.co/blog/para/) looks interesting)
 - Publish vault as a publicly available website (using [Quartz](https://github.com/jackyzha0/quartz) maybe?)
