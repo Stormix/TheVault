@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9272ebd49a223962",
+        "id": "0be70fdd75339687",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +114,7 @@
     "direction": "horizontal",
     "width": 552
   },
-  "active": "9272ebd49a223962",
+  "active": "0be70fdd75339687",
   "lastOpenFiles": [
     "README.md",
     "Developement/Blockchain/Smart Contracts.md",
