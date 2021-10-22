@@ -20,4 +20,8 @@
 	npx truffle compile
 	```
 	
+- Deploy contracts (after you create the migrations)
+	```bash
+	npx truffle migrate --network development
+	```
 	
