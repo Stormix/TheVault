@@ -15,7 +15,6 @@
 	truffle create test YourTestName         # scaffold a test
 	```
 	
-	
 - Compile
 	```bash
 	npx truffle compile
