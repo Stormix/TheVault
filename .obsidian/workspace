@@ -116,6 +116,7 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "2..md",
     "README.md",
     "Developement/Blockchain/Smart Contracts.md",
     "TheVault.png",
@@ -124,7 +125,6 @@
     "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
     "testing.md",
     "library.md",
-    "etherium.md",
-    "Developement/Blockchain/Untitled.md"
+    "etherium.md"
   ]
 }
