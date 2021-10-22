@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Thought.md",
+            "file": "Templates/Book Note.md",
             "mode": "source"
           }
         }
@@ -34,6 +34,20 @@
             }
           },
           {
+            "id": "ce6053f8c5f1086d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "4c905cd66f1927c7",
+        "type": "tabs",
+        "children": [
+          {
             "id": "5cbb78a8a42d4607",
             "type": "leaf",
             "state": {
@@ -46,14 +60,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "ce6053f8c5f1086d",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           }
         ]
@@ -90,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Thought.md",
+                "file": "Templates/Book Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +126,10 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
-    "Templates/Thought.md",
     "Templates/Book Note.md",
-    "4. Archive/PARA Starter Kit/Outline.md",
     "Templates/Podcast.md",
+    "Templates/Thought.md",
+    "4. Archive/PARA Starter Kit/Outline.md",
     "Templates/Temporal/time.md",
     "Templates/Temporal/Now.md",
     "Templates/Temporal/monthly.md",

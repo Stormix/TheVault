@@ -1,5 +1,5 @@
 ---
-tags: 📥️/💭️/🟥️
+tags: 
 publish: true
 aliases:
   - 
