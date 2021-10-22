@@ -16,10 +16,24 @@ My own personal digital garden. Still a WIP since I need to migrate all my notes
 - Publish vault as a publicly available website (using [Quartz](https://github.com/jackyzha0/quartz) maybe?)
 - List all enabled plugins
 
-### Bookmarklet 
+### Bookmarklet
+
+[Send to Obsidian](#)
 
 ```javascript
-javascript:(function(){ const title = document.title; const selectedText = window.getSelection().toString(); const url = document.location.href; const tag = '#saved_from_chrome'; const content = `# ${title} ${selectedText != "" ? `${"\n"} > ${selectedText.replaceAll("\n", "\n> ")}` : "" } ${"\n\n"} - [${title}](${url}) ${"\n\n"} ${tag}`; document.location.href = `obsidian://new?name=${encodeURIComponent(title)}&content=${encodeURIComponent(content)}&vault=VAULTNAMENERE` })();
+javascript: (function () {
+  const title = document.title;
+  const selectedText = window.getSelection().toString();
+  const url = document.location.href;
+  const tag = '#saved_from_chrome';
+  const content = `# ${title} ${
+    selectedText != "" ?
+      `${"\n"} > ${selectedText.replaceAll("\n", "\n> ")}`
+      : ""
+    } ${"\n\n"} - [${title}](${url}) ${"\n\n"} ${tag}`;
+  document.location.href =
+  `obsidian://new?name=${encodeURIComponent(title)}&content=${encodeURIComponent(content)}&vault=TheVault`
+})();
 ```
 
 ### Credits

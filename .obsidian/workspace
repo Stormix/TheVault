@@ -7,11 +7,8 @@
         "id": "0be70fdd75339687",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +116,7 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "Connecting to public test networks - OpenZeppelin Docs.md",
     "README.md",
     "3. Resources/Gaming/Interesting games.md",
     "1. Projects/Yogalive NFT/About.md",
@@ -128,7 +125,6 @@
     "TheVault.png",
     "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "testing.md"
+    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md"
   ]
 }
