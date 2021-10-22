@@ -5,7 +5,7 @@
 - Truffle: [https://www.trufflesuite.com/](https://www.trufflesuite.com/) 
 	- Ganache: A personal blockchain for Ethereum development [https://github.com/trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) 
 	- Drizzle: A collection of front-end libraries for dapps [https://github.com/trufflesuite/drizzle](https://github.com/trufflesuite/drizzle)
-- 
+- Hardhat: https://hardhat.org/
 - OpenZepplin Contracts: a library for secure smart contract development https://github.com/OpenZeppelin/openzeppelin-contracts [[library]]
 - Geth: https://geth.ethereum.org/ [[network]]
 - Mist ETH Wallet: https://github.com/ethereum/mist/releases [[wallet]]
@@ -32,3 +32,7 @@
 ## Best practices
 - Security Considerations: https://docs.soliditylang.org/en/latest/security-considerations.html
 - https://consensys.github.io/smart-contract-best-practices/recommendations/
+- Known attacks: https://consensys.github.io/smart-contract-best-practices/known_attacks/
+
+## Sec 
+- Ethernaut: https://ethernaut.openzeppelin.com/

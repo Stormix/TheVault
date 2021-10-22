@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Developement/Blockchain/Smart Contracts.md",
+            "file": "Developement/Blockchain/Truffle/Cheatsheet.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developement/Blockchain/Smart Contracts.md",
+                "file": "Developement/Blockchain/Truffle/Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +106,7 @@
   },
   "active": "401bf4101ed96819",
   "lastOpenFiles": [
+    "Developement/Blockchain/Truffle/Cheatsheet.md",
     "Developement/Blockchain/Smart Contracts.md",
     "etherium.md",
     "README.md",
