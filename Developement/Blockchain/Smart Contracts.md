@@ -10,7 +10,7 @@
 - OpenZepplin Contracts: a library for secure smart contract development https://github.com/OpenZeppelin/openzeppelin-contracts [[library]]
 - Geth: https://geth.ethereum.org/ [[network]]
 - Mist ETH Wallet: https://github.com/ethereum/mist/releases [[wallet]]
-
+- Typescript bindings: https://github.com/dethcrypto/TypeChain 
 ## Useful Websites
 - ETH Gas Station: Etherium gas fees listing https://ethgasstation.info/ [[etherium]]
 - [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address 
