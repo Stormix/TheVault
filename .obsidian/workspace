@@ -7,8 +7,11 @@
         "id": "0be70fdd75339687",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources/Gaming/Interesting games.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -87,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/Gaming/Interesting games.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,15 +120,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "3. Resources/Gaming/Interesting games.md",
+    "1. Projects/Yogalive NFT/About.md",
     "2..md",
     "README.md",
-    "Developement/Blockchain/Smart Contracts.md",
+    "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "TheVault.png",
-    "Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
-    "Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "testing.md",
-    "library.md",
-    "etherium.md"
+    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+    "testing.md"
   ]
 }
