@@ -1,7 +1,7 @@
 # Smart Contracts
 [[resources]] [[developement]] [[environment]]
 
-## Tools
+## Tools & Libraries
 - Truffle: [https://www.trufflesuite.com/](https://www.trufflesuite.com/) 
 	- Ganache: A personal blockchain for Ethereum development [https://github.com/trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) 
 	- Drizzle: A collection of front-end libraries for dapps [https://github.com/trufflesuite/drizzle](https://github.com/trufflesuite/drizzle)
@@ -10,6 +10,8 @@
 - Geth: https://geth.ethereum.org/ [[network]]
 - Mist ETH Wallet: https://github.com/ethereum/mist/releases [[wallet]]
 - Typescript bindings: https://github.com/dethcrypto/TypeChain 
+- OpenZeppelin Test Helpers for [chai](https://www.chaijs.com/): https://docs.openzeppelin.com/test-helpers/0.5/api [[testing]]
+- Op
 
 
 ## Useful Websites

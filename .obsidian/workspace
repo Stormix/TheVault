@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+            "file": "Developement/Blockchain/Smart Contracts.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wallet",
+                "query": "tag:#testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+                "file": "Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,8 +106,9 @@
   },
   "active": "401bf4101ed96819",
   "lastOpenFiles": [
-    "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
     "Developement/Blockchain/Smart Contracts.md",
+    "Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+    "testing.md",
     "Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
     "library.md",
     "etherium.md",
