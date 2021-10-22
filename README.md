@@ -1,10 +1,10 @@
-
 ![TheVault.png](./TheVault.png)
 
-# The Vault
+# The Vault - Personal digital garden
 
-My own personal digital garden. Still a WIP since I need to migrate all my notes from OneNote.
+*Still a WIP since I need to migrate all my notes from OneNote.*
 
+An obsidian vault with all my notes . Keeping it public in case it could help other people.
 
 P.S: 
  - I just start using Obsidian recently, so I don't have a lot of notes and the structure will definitely change.

@@ -121,6 +121,7 @@
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
     "README.md",
+    "1. Projects/TODO.md",
     "Connecting to public test networks - OpenZeppelin Docs.md",
     "3. Resources/Gaming/Interesting games.md",
     "1. Projects/Yogalive NFT/About.md",
@@ -128,7 +129,6 @@
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "TheVault.png",
     "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md"
+    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md"
   ]
 }
