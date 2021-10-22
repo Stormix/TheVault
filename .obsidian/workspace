@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/Book Notes.md",
+            "file": "Templates/mark.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Book Notes.md",
+                "file": "Templates/mark.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,15 +120,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
-    "Templates/Book Notes.md",
+    "Templates/mark.md",
+    "Templates/Lorem.md",
+    "Templates/dataview.md",
+    "Templates/comment.md",
+    "Templates/Book Note.md",
+    "Templates/ABC.md",
+    "Templates/Meta.md",
+    "3. Resources/Reading/Untitled.md",
     "README.md",
-    "1. Projects/TODO.md",
-    "Connecting to public test networks - OpenZeppelin Docs.md",
-    "3. Resources/Gaming/Interesting games.md",
-    "1. Projects/Yogalive NFT/About.md",
-    "2..md",
-    "3. Resources/Developement/Blockchain/Smart Contracts.md",
-    "TheVault.png",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md"
+    "1. Projects/TODO.md"
   ]
 }
