@@ -36,3 +36,7 @@
 	npx truffle exec --network development ./scripts/index.js
 	```
 	
+- Run tests
+	```bash
+	npx truffle test
+	```

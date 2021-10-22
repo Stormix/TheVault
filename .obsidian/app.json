@@ -1,4 +1,5 @@
 {
   "communityPluginSortOrder": "download",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "promptDelete": false
 }
