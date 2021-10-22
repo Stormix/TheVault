@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Templates/Book Notes.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Templates/Book Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "Templates/Book Notes.md",
     "README.md",
     "1. Projects/TODO.md",
     "Connecting to public test networks - OpenZeppelin Docs.md",
@@ -128,7 +129,6 @@
     "2..md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "TheVault.png",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md"
+    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md"
   ]
 }
