@@ -14,7 +14,8 @@
 	```bash
 	truffle create test YourTestName         # scaffold a test
 	```
-	
+
+## Common Dev commands:
 - Compile
 	```bash
 	npx truffle compile
@@ -25,3 +26,7 @@
 	npx truffle migrate --network development
 	```
 	
+- Truffle Console
+	```bash
+	npx truffle console --network development
+	```
