@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Gaming/Interesting games.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Gaming/Interesting games.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +120,10 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "README.md",
     "3. Resources/Gaming/Interesting games.md",
     "1. Projects/Yogalive NFT/About.md",
     "2..md",
-    "README.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "TheVault.png",
     "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
