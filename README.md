@@ -4,11 +4,11 @@
 
 *Still a WIP since I need to migrate all my notes from OneNote.*
 
-An obsidian vault with all my notes . Keeping it public in case it could help other people.
+An obsidian vault with all my notes. Keeping it public in case it could help other people.
 
 P.S: 
- - I just start using Obsidian recently, so I don't have a lot of notes and the structure will definitely change.
- - The repo is updated automatically by the obsidian-git plugin, so the commits won't be that meaningfull.
+ - I just started using Obsidian recently, so I don't have a lot of notes and the structure will definitely change.
+ - The repo is updated automatically using the obsidian-git plugin, so commits won't be that meaningful.
 
 
 ## To do
@@ -16,7 +16,7 @@ P.S:
 - [ ] Publish vault as a publicly available website (using [Quartz](https://github.com/jackyzha0/quartz) maybe?)
 - [ ] List all enabled plugins
 
-### Bookmarklet
+## Bookmarklet
 
 Drag this [Send to Obsidian](https://stormix.co) to your bookmarks, right-click and select edit, paste the following instead of the link.
 
@@ -36,7 +36,7 @@ javascript: (function () {
 })();
 ```
 
-### Credits
+## Credits
 
 - Thanks to Brewex for the [Vault Icon](https://dribbble.com/shots/12878749-Onboarding-Illustration-1)
 - Thanks to Chetachi for the awesome looking [Ying and Yang](https://github.com/chetachiezikeuzor/Yin-and-Yang-Theme) theme used here
