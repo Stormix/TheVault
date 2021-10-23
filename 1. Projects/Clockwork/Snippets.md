@@ -1,6 +1,6 @@
 # Snippets
 
-[[debugging]] 
+[[debugging]] [[Snippets]]
 
 ## Create debug lines for the grid
 

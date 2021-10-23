@@ -1,6 +1,6 @@
 # Clockwork - a game engine from scratch
 
-The goal of this project is to build a game engine, I still don't know what it needs to do, but will update the project README as things progress.  
+The goal of this project is to build a game engine, I still don't know what it needs to do, but will update this README as things progress.  
  
 
 ## Guide:
