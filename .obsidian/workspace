@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+            "file": "1. Projects/Clockwork/Clockwork.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+                "file": "1. Projects/Clockwork/Clockwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "1. Projects/Clockwork/Clockwork.md",
+    "1. Projects/Clockwork/Snippets.md",
+    "1. Projects/Clockwork/Debugging.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
     "Templates/Book Note.md",
     "Templates/Podcast.md",
-    "Templates/Thought.md",
-    "4. Archive/PARA Starter Kit/Outline.md",
-    "Templates/Temporal/time.md",
-    "Templates/Temporal/Now.md"
+    "Templates/Thought.md"
   ]
 }

@@ -25,7 +25,7 @@ javascript: (function () {
   const title = document.title;
   const selectedText = window.getSelection().toString();
   const url = document.location.href;
-  const tag = '#saved_from_chrome';
+  const tag = '[[saved_from_chrome]]';
   const content = `# ${title} ${
     selectedText != "" ?
       `${"\n"} > ${selectedText.replaceAll("\n", "\n> ")}`
