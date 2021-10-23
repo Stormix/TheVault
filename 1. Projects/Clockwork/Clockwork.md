@@ -26,7 +26,7 @@ I think the first game I'll build using this game engine will be a 2D tower defe
 - [x] Use Vite (WIP)
 - [x] Update all undefined checks to null checks and make use of the new TS features.
 - [x] Remove namespaces and switch to modules.
-- [ ] Ship package to github packages.
+- [ ] Better Engine / Game Isolation
   
 
 ### Engine to do:
@@ -44,41 +44,22 @@ This todo list was copied from the original project, but hasn't been updated for
  - Checkbox
  - Radio Button
  - Window/Dialogs
-
 - Multi-page bitmap fonts
-
 - Configurable bitmap fonts
-
 - Configurable audio
-
 - State Machines
-
 - System fonts?
-
 - Advanced audio
-
 - Configurable materials
-
 - Networking (including server?)
-
 - 3D
-
  - Lighting
-
  - Normal maps
-
  - Specular maps
-
  - Physics
-
  - Object/mesh loading
-
  - Animation system
-
 - RenderBuffer/PostFX system
-
 - WebGL2?
-
 - Input handler overhaul
-
 - Zone overhaul - potentially change to a better format
