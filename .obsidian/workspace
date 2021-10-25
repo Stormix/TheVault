@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Tools/Notes.md",
-            "mode": "source"
+            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+            "mode": "preview"
           }
         }
       }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Tools/Notes.md",
+                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +124,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 993
+    "width": 993,
+    "collapsed": true
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "3. Resources/Developement/Tools/Notes.md",
     "3. Resources/Developement/Tools/Typescript.md",
     "3. Resources/Developement/Tools/Vite.md",
     "3. Resources/Developement/Game/Game Engine/Resources.md",
     "3. Resources/Developement/Untitled.md",
     "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
-    "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "Templates/Podcast.md",
     "Templates/Thought.md",
     "1. Projects/Clockwork/Snippets.md"
