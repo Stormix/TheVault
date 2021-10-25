@@ -1,5 +1,5 @@
 # Smart Contracts
-[[resources]] [[developement]] [[environment]]
+[[Resources]] [[developement]] [[environment]]
 
 ## Tools & Libraries
 - Truffle: [https://www.trufflesuite.com/](https://www.trufflesuite.com/) 

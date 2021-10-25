@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Game Engine/Resources.md",
+            "file": "3. Resources/Developement/Game/Game Engine/Resources.md",
             "mode": "source"
           }
         }
@@ -66,7 +66,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 366
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Game Engine/Resources.md",
+                "file": "3. Resources/Developement/Game/Game Engine/Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +126,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
-    "3. Resources/Developement/Game Engine/Resources.md",
+    "3. Resources/Developement/Game/Game Engine/Resources.md",
+    "3. Resources/Developement/Untitled.md",
+    "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "Templates/Podcast.md",
     "Templates/Thought.md",
     "1. Projects/Clockwork/Snippets.md",
     "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Clockwork/Debugging.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md"
+    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md"
   ]
 }
