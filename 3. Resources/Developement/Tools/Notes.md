@@ -1,0 +1,1 @@
+ - If vite doesn't hot reload when you update certain files, check if you're missing a default export. [[Vite]] [[Typescript]]

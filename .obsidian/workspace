@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Game/Game Engine/Resources.md",
+            "file": "3. Resources/Developement/Tools/Notes.md",
             "mode": "source"
           }
         }
@@ -24,6 +24,7 @@
       {
         "id": "acb304748d515d37",
         "type": "tabs",
+        "dimension": 69.05797101449276,
         "children": [
           {
             "id": "a92c31a4462bb22c",
@@ -46,6 +47,7 @@
       {
         "id": "4c905cd66f1927c7",
         "type": "tabs",
+        "dimension": 30.942028985507246,
         "children": [
           {
             "id": "5cbb78a8a42d4607",
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Game/Game Engine/Resources.md",
+                "file": "3. Resources/Developement/Tools/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,15 +128,15 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "3. Resources/Developement/Tools/Notes.md",
+    "3. Resources/Developement/Tools/Typescript.md",
+    "3. Resources/Developement/Tools/Vite.md",
     "3. Resources/Developement/Game/Game Engine/Resources.md",
     "3. Resources/Developement/Untitled.md",
     "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "Templates/Podcast.md",
     "Templates/Thought.md",
-    "1. Projects/Clockwork/Snippets.md",
-    "1. Projects/Clockwork/Clockwork.md",
-    "1. Projects/Clockwork/Debugging.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md"
+    "1. Projects/Clockwork/Snippets.md"
   ]
 }
