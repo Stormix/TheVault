@@ -13,14 +13,13 @@
 - OpenZeppelin Test Helpers: https://docs.openzeppelin.com/test-helpers/0.5/api [[testing]]
 - OpenZeppelin Test Environment: https://docs.openzeppelin.com/test-environment/0.1/
 
-
 ## Useful Websites
 - ETH Gas Station: Etherium gas fees listing https://ethgasstation.info/ [[etherium]]
 - [Petrometer](https://github.com/makerdao/petrometer) - Summarises daily and total gas consumption of all transactions sent from a specified Ethereum address 
 - [Etherscan](https://etherscan.io/) - most popular centralized way to view Eth transactions and contract code
 - More EcoSystem Resources: https://github.com/ConsenSys/ethereum-developer-tools-list/blob/master/EcosystemResources.md 
 - https://ethereum.org/en/learn/
-- 
+
 
 ## Tutorials
 - Development environment setup:  https://medium.com/blockchain-developer/setting-up-a-professional-development-environment-for-ethereum-smart-contracts-development-77399a20f878 
@@ -28,6 +27,7 @@
 - NFT/ERC-721/Collectible END-TO-END TUTORIAL: [[NFTs]]
 	-  https://www.youtube.com/watch?v=p36tXHX1JD8 [[Youtube]]
 	-  https://betterprogramming.pub/how-to-create-nfts-with-solidity-4fa1398eb70a?sk=a9b1771078d49e49289d8107a23d62f1&source=friends_link&gi=cae45876cf3c [[Medium]]
+- NFT: [How to Create a Profitable NFT Project from scratch](https://youtu.be/25V6IJwze0s)
 
 ## Best practices
 - Security Considerations: https://docs.soliditylang.org/en/latest/security-considerations.html
