@@ -18,3 +18,7 @@
 
 ## WebGL
 - http://uniguld.dk/wp-content/guld/DTU/webgrafik/0321902920_WebGL.pdf
+
+## A must checkout later
+- https://github.com/thirdroom/threecs
+- https://github.com/thirdroom/thirdroom
