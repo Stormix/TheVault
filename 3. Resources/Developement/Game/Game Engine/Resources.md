@@ -17,7 +17,8 @@
 - https://thebookofshaders.com/
 
 ## WebGL
-- http://uniguld.dk/wp-content/guld/DTU/webgrafik/0321902920_WebGL.pdf
+- http://uniguld.dk/wp-content/guld/DTU/webgrafik/0321902920_WebGL.pdf 
+- https://webglfundamentals.org/webgl/lessons/webgl-how-it-works.html 
 
 ## A must checkout later
 - https://github.com/thirdroom/threecs
