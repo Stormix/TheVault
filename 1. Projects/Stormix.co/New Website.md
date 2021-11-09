@@ -24,6 +24,7 @@
 	- Font
 	- About section
 	- Project Cards
+- 
 
 ### Structure
 - https://techrez.io/resume/andrew-lu :
