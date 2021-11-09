@@ -1,8 +1,13 @@
+# New portfolio - stormix.co
+
+[[UI & UX]] [[Vite]] 
+
 ## Steps
 
-1. Create UI in figma
-2. Create prototype
-3. Implement! Start writing code
+1. Create Wireframe in figma
+2. Create UI in figma
+3. Create prototype
+4. Implement! Start writing code
 
 ## Tools
 - Figma

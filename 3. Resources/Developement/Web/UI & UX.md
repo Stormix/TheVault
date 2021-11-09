@@ -7,6 +7,7 @@
 
 ### Patterns
 - https://www.heropatterns.com/
+- https://products.ls.graphics/paaatterns/index.html
 
 ### Color schemes
 - https://coolors.co/
@@ -14,6 +15,7 @@
 
 ### Assets
 - http://www.uigoodies.com/
+- 3D Assets https://www.shapefest.com/
 
 #### Illustrations
 - https://lukaszadam.com/illustrations
