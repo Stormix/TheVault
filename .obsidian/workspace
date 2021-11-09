@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "1. Projects/Stormix.co/New Website.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/Stormix.co/New Website.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,8 @@
   },
   "active": "0be70fdd75339687",
   "lastOpenFiles": [
+    "1. Projects/Stormix.co/New Website.md",
+    "3. Resources/Developement/Web/UI & UX.md",
     "Untitled.md",
     "3. Resources/Developement/Game/Game Engine/Resources.md",
     "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
@@ -136,8 +138,6 @@
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "README.md",
     "1. Projects/Project Ideas.md",
-    "1. Projects/Clockwork/Snippets.md",
-    "3. Resources/Developement/Tools/Fastlane.md",
-    "3. Resources/Developement/Tools/Vite.md"
+    "1. Projects/Clockwork/Snippets.md"
   ]
 }
