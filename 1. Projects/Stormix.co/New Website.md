@@ -1,3 +1,12 @@
+## Steps
+
+1. Create UI in figma
+2. Create prototype
+3. Implement! Start writing code
+
+## Tools
+- Figma
+
 ## Inspiration
 
 ### UI
@@ -9,6 +18,7 @@
 - https://brittanychiang.com/ :
 	- Font
 	- About section
+	- Project Cards
 
 ### Structure
 - https://techrez.io/resume/andrew-lu :
