@@ -1,0 +1,2 @@
+- https://www.ibm.com/cloud/learn/cloud-native
+- https://www.ibm.com/cloud/kubernetes-service/kubernetes-tutorials
