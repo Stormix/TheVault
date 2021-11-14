@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "ff68d7e4e6f3663e",
+    "id": "5dce3fa60b47c378",
     "type": "split",
     "children": [
       {
-        "id": "0be70fdd75339687",
+        "id": "dc831c11b29aff65",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Job Search/Interviews/Meta.md",
+            "file": "1. Projects/Clockwork/Clockwork.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Job Search/Interviews/Meta.md",
+                "file": "1. Projects/Clockwork/Clockwork.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,8 +127,9 @@
     "width": 993,
     "collapsed": true
   },
-  "active": "0be70fdd75339687",
+  "active": "dc831c11b29aff65",
   "lastOpenFiles": [
+    "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Job Search/Interviews/Meta.md",
     "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
     "1. Projects/Stormix.co/New Website.md",
@@ -137,7 +138,6 @@
     "3. Resources/Developement/Web/UI & UX.md",
     "Untitled.md",
     "3. Resources/Developement/Game/Game Engine/Resources.md",
-    "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
-    "3. Resources/Developement/Game/Game Engine/PixiJs.md"
+    "3. Resources/Developement/Game/Game Engine/Button Prompts.md"
   ]
 }
