@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Test.md",
+            "file": "1. Projects/Metamaze/Notes.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Test.md",
+                "file": "1. Projects/Metamaze/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "dc831c11b29aff65",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Notes.md",
     "1. Projects/Metamaze/Test.md",
     "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Job Search/Interviews/Meta.md",
@@ -137,7 +138,6 @@
     "1. Projects/Google FooBar/Update 09-11-2021.md",
     "3. Resources/Reading/Books I want to read.md",
     "3. Resources/Developement/Web/UI & UX.md",
-    "Untitled.md",
-    "3. Resources/Developement/Game/Game Engine/Resources.md"
+    "Untitled.md"
   ]
 }
