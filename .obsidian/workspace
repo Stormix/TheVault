@@ -7,11 +7,8 @@
         "id": "dc831c11b29aff65",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects/Metamaze/Test.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -98,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
