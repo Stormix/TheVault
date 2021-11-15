@@ -7,8 +7,11 @@
         "id": "dc831c11b29aff65",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Projects/Metamaze/Notes.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -95,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Projects/Metamaze/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,8 +129,8 @@
   },
   "active": "dc831c11b29aff65",
   "lastOpenFiles": [
-    "1. Projects/Metamaze/Test.md",
     "1. Projects/Metamaze/Notes.md",
+    "1. Projects/Metamaze/Test.md",
     "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Job Search/Interviews/Meta.md",
     "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
