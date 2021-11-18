@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Notes.md",
+            "file": "1. Projects/Metamaze/Product Training.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Notes.md",
+                "file": "1. Projects/Metamaze/Product Training.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "dc831c11b29aff65",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Product Training.md",
     "1. Projects/Metamaze/Notes.md",
     "3. Resources/Developement/Tools/Python.md",
     "Untitled.md",
@@ -137,7 +138,6 @@
     "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Job Search/Interviews/Meta.md",
     "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
-    "1. Projects/Stormix.co/New Website.md",
-    "1. Projects/Google FooBar/Update 09-11-2021.md"
+    "1. Projects/Stormix.co/New Website.md"
   ]
 }
