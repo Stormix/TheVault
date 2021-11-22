@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Product Training.md",
+            "file": "1. Projects/Clockwork/Debugging.md",
             "mode": "source"
           }
         }
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "debug lines",
+                "query": "brave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Product Training.md",
+                "file": "1. Projects/Clockwork/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "1. Projects/Clockwork/Debugging.md",
     "1. Projects/Metamaze/Product Training.md",
     "3. Resources/Developement/Game/Game Engine/PixiJs.md",
     "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
@@ -137,7 +138,6 @@
     "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "3. Resources/Developement/Tools/Vite.md",
-    "3. Resources/Reading/Books I want to read.md",
-    "3. Resources/Gaming/Interesting games.md"
+    "3. Resources/Reading/Books I want to read.md"
   ]
 }
