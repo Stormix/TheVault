@@ -7,10 +7,9 @@
         "id": "885f98d5b51f4b98",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "3. Resources/Developement/Tools/Docker.md",
-            "mode": "source"
+            "file": "TheVault.png"
           }
         }
       }
@@ -24,7 +23,7 @@
       {
         "id": "acb304748d515d37",
         "type": "tabs",
-        "dimension": 69.05797101449276,
+        "dimension": 61.66666666666667,
         "children": [
           {
             "id": "a92c31a4462bb22c",
@@ -47,7 +46,7 @@
       {
         "id": "4c905cd66f1927c7",
         "type": "tabs",
-        "dimension": 30.94202898550724,
+        "dimension": 38.333333333333336,
         "children": [
           {
             "id": "5cbb78a8a42d4607",
@@ -55,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brave",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345
+    "width": 592
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Tools/Docker.md",
+                "file": "TheVault.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +128,15 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
-    "3. Resources/Developement/Tools/Docker.md",
-    "1. Projects/Metamaze/Grafana.md",
-    "1. Projects/Metamaze/DateParser test regex.md",
-    "1. Projects/Clockwork/Debugging.md",
-    "1. Projects/Metamaze/Product Training.md",
-    "3. Resources/Developement/Game/Game Engine/PixiJs.md",
-    "3. Resources/Developement/Game/Game Engine/Button Prompts.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Web3 - Cheat sheet.md"
+    "TheVault.png",
+    "README.md",
+    "Templates/Book Note.md",
+    "Templates/Podcast.md",
+    "Templates/Thought.md",
+    "3. Resources/Developement/Tools/Fastlane.md",
+    "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
+    "3. Resources/Developement/Mobile/App Store Connect.md",
+    "3. Resources/Developement/Hybrid Apps/Capacitor.md",
+    "3. Resources/Developement/Game/Game Engine/Resources.md"
   ]
 }
