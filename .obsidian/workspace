@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/DB Switch/Cases/Discord.md",
+            "file": "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/DB Switch/Cases/Discord.md",
+                "file": "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
-    "1. Projects/Metamaze/DB Switch/Cases/Discord.md",
+    "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
     "1. Projects/Metamaze/DB Switch/Index.md",
     "TheVault.png",
     "README.md",
