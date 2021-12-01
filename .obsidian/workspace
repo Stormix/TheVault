@@ -7,9 +7,10 @@
         "id": "885f98d5b51f4b98",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "TheVault.png"
+            "file": "1. Projects/Metamaze/DB switch for pages.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 592
+    "width": 294.0193977355957
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TheVault.png",
+                "file": "1. Projects/Metamaze/DB switch for pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +129,7 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/DB switch for pages.md",
     "TheVault.png",
     "README.md",
     "Templates/Book Note.md",
@@ -136,7 +138,6 @@
     "3. Resources/Developement/Tools/Fastlane.md",
     "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
     "3. Resources/Developement/Mobile/App Store Connect.md",
-    "3. Resources/Developement/Hybrid Apps/Capacitor.md",
-    "3. Resources/Developement/Game/Game Engine/Resources.md"
+    "3. Resources/Developement/Hybrid Apps/Capacitor.md"
   ]
 }
