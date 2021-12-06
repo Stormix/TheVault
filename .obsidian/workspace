@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Web/UI & UX.md",
+            "file": "1. Projects/Metamaze/DB Switch/Index.md",
             "mode": "source"
           }
         }
@@ -24,7 +24,7 @@
       {
         "id": "acb304748d515d37",
         "type": "tabs",
-        "dimension": 61.66666666666667,
+        "dimension": 82.53275109170306,
         "children": [
           {
             "id": "a92c31a4462bb22c",
@@ -47,7 +47,7 @@
       {
         "id": "4c905cd66f1927c7",
         "type": "tabs",
-        "dimension": 38.333333333333336,
+        "dimension": 17.46724890829694,
         "children": [
           {
             "id": "5cbb78a8a42d4607",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Web/UI & UX.md",
+                "file": "1. Projects/Metamaze/DB Switch/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +129,9 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/DB Switch/Index.md",
     "3. Resources/Developement/Web/UI & UX.md",
     "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
-    "1. Projects/Metamaze/DB Switch/Index.md",
     "TheVault.png",
     "README.md",
     "Templates/Book Note.md",

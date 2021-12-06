@@ -23,6 +23,5 @@
 ### Utils
 - https://github.com/destefanis/auto-theme [Figma] [UI & UX]
 - https://www.figma.com/community/plugin/801195587640428208/Design-Lint
-- [ ] https://github.com/destefanis/figma-table-of-contents
-- [ ] https://www.figma.com/@discord
-- [ ] 
+- https://github.com/destefanis/figma-table-of-contents
+- https://www.figma.com/@discord
