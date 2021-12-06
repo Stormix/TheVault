@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
+            "file": "3. Resources/Developement/Web/UI & UX.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
+                "file": "3. Resources/Developement/Web/UI & UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "3. Resources/Developement/Web/UI & UX.md",
     "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
     "1. Projects/Metamaze/DB Switch/Index.md",
     "TheVault.png",
@@ -137,7 +138,6 @@
     "Templates/Podcast.md",
     "Templates/Thought.md",
     "3. Resources/Developement/Tools/Fastlane.md",
-    "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md",
-    "3. Resources/Developement/Mobile/App Store Connect.md"
+    "3. Resources/Developement/Ops/Some DevOps & Cloud resources.md"
   ]
 }
