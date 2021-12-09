@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+            "file": "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
             "mode": "source"
           }
         }
@@ -24,7 +24,7 @@
       {
         "id": "acb304748d515d37",
         "type": "tabs",
-        "dimension": 82.53275109170306,
+        "dimension": 56.471716203259824,
         "children": [
           {
             "id": "a92c31a4462bb22c",
@@ -47,7 +47,7 @@
       {
         "id": "4c905cd66f1927c7",
         "type": "tabs",
-        "dimension": 17.46724890829694,
+        "dimension": 43.528283796740176,
         "children": [
           {
             "id": "5cbb78a8a42d4607",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "docker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+                "file": "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
-    "3. Resources/Developement/Blockchain/Smart Contracts.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Developement/Hybrid Apps/Capacitor.md",
-    "3. Resources/Reading/Books I want to read.md",
-    "3. Resources/Gaming/Interesting games.md",
-    "3. Resources/Developement/Web/UI & UX.md",
-    "3. Resources/Developement/Tools/Vite.md",
-    "3. Resources/Developement/Tools/Typescript.md",
+    "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
+    "1. Projects/Google FooBar/Update 09-11-2021.md",
+    "README.md",
+    "TheVault.png",
     "3. Resources/Developement/Tools/Docker.md",
-    "3. Resources/Developement/Tools/Fastlane.md"
+    "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
+    "Templates/Book Note.md",
+    "Templates/Podcast.md",
+    "Templates/Thought.md",
+    "3. Resources/Developement/Blockchain/Smart Contracts.md"
   ]
 }
