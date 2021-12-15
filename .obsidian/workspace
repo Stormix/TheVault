@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
+            "file": "3. Resources/Reading/Interesting blogs.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
+                "file": "3. Resources/Reading/Interesting blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "3. Resources/Reading/Interesting blogs.md",
     "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
     "1. Projects/Metamaze/DB Switch/Index.md",
     "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
@@ -137,7 +138,6 @@
     "README.md",
     "TheVault.png",
     "3. Resources/Developement/Tools/Docker.md",
-    "Templates/Book Note.md",
-    "Templates/Podcast.md"
+    "Templates/Book Note.md"
   ]
 }
