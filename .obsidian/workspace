@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Movies/Watchlist.md",
+            "file": "1. Projects/Metamaze/Metamaze UI/Design System.md",
             "mode": "source"
           }
         }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Movies/Watchlist.md",
+                "file": "1. Projects/Metamaze/Metamaze UI/Design System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,8 @@
   },
   "active": "885f98d5b51f4b98",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Metamaze UI/Design System.md",
+    "1. Projects/Metamaze/Metamaze UI/Theming.md",
     "3. Resources/Movies/Watchlist.md",
     "1. Projects/Metamaze/Uflow Redesign/UI Redesign strategie.md",
     "1. Projects/Metamaze/Uflow Redesign/Dependancies Upgrade.md",
@@ -136,8 +138,6 @@
     "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
     "1. Projects/Metamaze/DB Switch/Index.md",
     "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
-    "1. Projects/Job Search/Interviews/Meta.md",
-    "1. Projects/Google FooBar/Update 09-11-2021.md",
-    "README.md"
+    "1. Projects/Job Search/Interviews/Meta.md"
   ]
 }
