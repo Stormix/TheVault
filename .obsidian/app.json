@@ -3,5 +3,7 @@
   "readableLineLength": false,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "useTab": false
+  "useTab": false,
+  "legacyEditor": false,
+  "livePreview": true
 }
