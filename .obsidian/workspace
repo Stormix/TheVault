@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Metamaze UI/Design System.md",
+            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Metamaze UI/Design System.md",
+            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
             "mode": "preview",
             "source": false
           }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Metamaze UI/Design System.md",
+                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +142,9 @@
     "width": 993,
     "collapsed": true
   },
-  "active": "885f98d5b51f4b98",
+  "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
+    "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md",
     "1. Projects/Metamaze/Metamaze UI/Theming.md",
     "3. Resources/Movies/Watchlist.md",
@@ -152,7 +153,6 @@
     "3. Resources/Reading/Interesting blogs.md",
     "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
     "1. Projects/Metamaze/DB Switch/Index.md",
-    "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md",
-    "1. Projects/Job Search/Interviews/Meta.md"
+    "1. Projects/Metamaze/DB Switch/Cassandra/Discord.md"
   ]
 }
