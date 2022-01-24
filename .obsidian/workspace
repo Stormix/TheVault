@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "885f98d5b51f4b98",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
-            "mode": "source",
-            "source": false
-          }
-        },
-        "group": "372c5d35e6e4b3cb"
-      },
-      {
         "id": "3f0cb1d635d04095",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
-            "mode": "source",
+            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+            "mode": "preview",
             "source": false
           }
-        },
-        "group": "372c5d35e6e4b3cb"
+        }
       }
     ],
     "direction": "vertical"
@@ -113,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
+                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,15 +130,15 @@
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
-    "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+    "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md",
     "1. Projects/Metamaze/Metamaze UI/Theming.md",
     "3. Resources/Movies/Watchlist.md",
     "1. Projects/Metamaze/Uflow Redesign/UI Redesign strategie.md",
     "1. Projects/Metamaze/Uflow Redesign/Dependancies Upgrade.md",
-    "3. Resources/Reading/Interesting blogs.md",
-    "1. Projects/Metamaze/DB Switch/Database comparison and improvements.md",
-    "1. Projects/Metamaze/DB Switch/Index.md"
+    "3. Resources/Reading/Interesting blogs.md"
   ]
 }
