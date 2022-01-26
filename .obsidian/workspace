@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
-            "mode": "preview",
+            "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Blockchain/Smart Contracts.md",
+                "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,15 @@
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
-    "3. Resources/Developement/Blockchain/Smart Contracts.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
     "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md",
     "1. Projects/Metamaze/Metamaze UI/Theming.md",
-    "3. Resources/Movies/Watchlist.md",
-    "1. Projects/Metamaze/Uflow Redesign/UI Redesign strategie.md",
     "1. Projects/Metamaze/Uflow Redesign/Dependancies Upgrade.md",
+    "1. Projects/Metamaze/Uflow Redesign/UI Redesign strategie.md",
+    "3. Resources/Developement/Blockchain/Smart Contracts.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
+    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
+    "3. Resources/Movies/Watchlist.md",
     "3. Resources/Reading/Interesting blogs.md"
   ]
 }
