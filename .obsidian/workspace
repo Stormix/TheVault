@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
+            "file": "Untitled.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Metamaze UI/Architecture.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,11 +125,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 993,
-    "collapsed": true
+    "width": 709
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
+    "Untitled.md",
     "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md",
     "1. Projects/Metamaze/Metamaze UI/Theming.md",
@@ -138,7 +138,6 @@
     "3. Resources/Developement/Blockchain/Smart Contracts.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
     "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Movies/Watchlist.md",
-    "3. Resources/Reading/Interesting blogs.md"
+    "3. Resources/Movies/Watchlist.md"
   ]
 }
