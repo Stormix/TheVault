@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "1. Projects/Clockwork/Debugging.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "docker",
+                "query": "brave",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "1. Projects/Clockwork/Debugging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +129,15 @@
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
+    "1. Projects/Clockwork/Debugging.md",
+    "Pasted image 20211216115444.png",
+    "Pasted image 20211216115426.png",
+    "Pasted image 20211216115408.png",
+    "Pasted image 20211216115348.png",
+    "Pasted image 20211216115319.png",
     "Untitled.md",
     "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md",
-    "1. Projects/Metamaze/Metamaze UI/Theming.md",
-    "1. Projects/Metamaze/Uflow Redesign/Dependancies Upgrade.md",
-    "1. Projects/Metamaze/Uflow Redesign/UI Redesign strategie.md",
-    "3. Resources/Developement/Blockchain/Smart Contracts.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Truffle - Cheat sheet.md",
-    "3. Resources/Developement/Blockchain/Cheat sheets/Ganache - Cheat sheet.md",
-    "3. Resources/Movies/Watchlist.md"
+    "1. Projects/Metamaze/Metamaze UI/Theming.md"
   ]
 }
