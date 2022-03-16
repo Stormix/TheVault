@@ -78,8 +78,16 @@ Metamaze UI
 
 ### IDE
 
-
+![[Screenshot 2022-03-16 at 10.19.10.png]]
+![[Screenshot 2022-03-16 at 10.20.04.png]]
 
 ### Hooks
 
+
+
 ### Standard versionning
+
+Python semantic release
+
+
+And more on: https://www.conventionalcommits.org/en/about/
