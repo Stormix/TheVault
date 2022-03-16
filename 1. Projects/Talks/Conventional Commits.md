@@ -47,11 +47,18 @@ BREAKING CHANGE: use JavaScript features not available in Node 6.
 - Readable commit history
 - Automatically generating CHANGELOGs
 - Automatically determining a semantic version bump
-- Bt
+- Better communication overall
 
-## How we use it at Metamaze?
+## How we use it at Metamaze Fullstack?
 
-## Recommended tooling
+Metamaze UI
+
+![[Screenshot 2022-03-16 at 10.01.37.png]]
+![[Screenshot 2022-03-16 at 10.00.58.png]]
+
+
+
+## Other tooling
 
 ### IDE
 
