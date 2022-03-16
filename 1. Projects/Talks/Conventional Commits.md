@@ -2,7 +2,25 @@
 
 ## The issue with commit -m 
 
-git commit -m "<write something here to make this work.>"
+git commit -m "write something meaningful about your changes"
+
+But, it's usually interpreted as
+
+git commit -m "write something quick to make this work"
+And that's bad.
+
+If you think about all the codebases you've worked on before, how often did you write something like?
+
+
+git commit -m "fix"
+
+git commit -m "update"
+
+git commit -m "wip"
+
+git commit -m "hope this works"
+
+
 
 ## What are Conventional commits?
 
