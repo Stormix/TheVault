@@ -17,9 +17,10 @@ The specification is as follows:
 ```
 - Type can have one of the following values:
   - fix: for a commit that patches a bug (correlates with PATCH in semantic versioning)
-  - feat: that introduces a new feature (correlated with MINOR in semver)
+  - feat: that introduces a new feature (correlates with MINOR in semver)
   - also supported: `build:`, `chore:`, `ci:`, `docs:`, `style:`, `refactor:`, `perf:`, `test:` and others
-
+  - Breaking changes are marked using a `!` after the type/scope or by adding `BREAKING CHANGE:` to the footer. (correlated with MAJOR in semver)
+- Scope: can be set to anything to provide additional contextual information e.g `feat(date-parser): `
 
 ## What is it for?
 
