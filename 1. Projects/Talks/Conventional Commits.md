@@ -20,7 +20,24 @@ The specification is as follows:
   - feat: that introduces a new feature (correlates with MINOR in semver)
   - also supported: `build:`, `chore:`, `ci:`, `docs:`, `style:`, `refactor:`, `perf:`, `test:` and others
   - Breaking changes are marked using a `!` after the type/scope or by adding `BREAKING CHANGE:` to the footer. (correlated with MAJOR in semver)
-- Scope: can be set to anything to provide additional contextual information e.g `feat(date-parser): `
+- Scope: can be set to anything to provide additional contextual information
+
+## More examples:
+
+com
+
+### Commit message with scope
+
+`feat(date-parser): add ability to parse DMY dates`
+
+### Commit message with breaking change
+
+```
+chore!: drop support for Node 6
+
+BREAKING CHANGE: use JavaScript features not available in Node 6.
+```
+
 
 ## What is it for?
 
