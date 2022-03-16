@@ -1,14 +1,14 @@
-## The issue with git commit -m 
 
 
+## The issue with commit -m 
 
+git commit -m "<write something here to make this work.>"
 
-## What is it?
+## What are Conventional commits?
 
 A lightweight convention on top of commit messages that provides a simple set of rules to create a commit history readable by both humans and machines.
 
-
-## What does it look like?
+## How does cc fix that?
 
 The specification is as follows:
 - Commit messages should be structured as follows:
@@ -107,3 +107,7 @@ And more on: https://www.conventionalcommits.org/en/about/
 - Use existing tooling for changelogs, releases, commit prompts, linters
 
 ## Thanks
+
+Sources: 
+- https://www.conventionalcommits.org/
+- @marioebl's talk about the The perks of committing with conventions
