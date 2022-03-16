@@ -9,17 +9,18 @@ But, it's usually interpreted as
 git commit -m "write something quick to make this work"
 And that's bad.
 
-If you think about all the codebases you've worked on before, how often did you write something like?
+If you think about all the codebases you've worked on before, how often did you write things like?
 
 
 git commit -m "fix"
-
 git commit -m "update"
-
 git commit -m "wip"
-
+git commit -m "debug"
 git commit -m "hope this works"
 
+Some times you feel bad and add numbers for a change:
+
+![[Screenshot 2022-03-16 at 10.46.13.png]]
 
 
 ## What are Conventional commits?
