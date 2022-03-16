@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Clockwork/Debugging.md",
+            "file": "1. Projects/Talks/Conventional Commits.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Clockwork/Debugging.md",
+                "file": "1. Projects/Talks/Conventional Commits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
+    "1. Projects/Talks/Conventional Commits.md",
     "1. Projects/Clockwork/Debugging.md",
     "Pasted image 20211216115444.png",
     "Pasted image 20211216115426.png",
@@ -137,7 +138,6 @@
     "Pasted image 20211216115319.png",
     "Untitled.md",
     "1. Projects/Metamaze/Metamaze UI/Architecture.md",
-    "1. Projects/Metamaze/Metamaze UI/Design System.md",
-    "1. Projects/Metamaze/Metamaze UI/Theming.md"
+    "1. Projects/Metamaze/Metamaze UI/Design System.md"
   ]
 }
