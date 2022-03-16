@@ -54,8 +54,10 @@ BREAKING CHANGE: use JavaScript features not available in Node 6.
 Metamaze UI
 
 ![[Screenshot 2022-03-16 at 10.01.37.png]]
+
 ![[Screenshot 2022-03-16 at 10.00.58.png]]
 
+![[Screenshot 2022-03-16 at 10.09.21.png]]
 
 
 ## Other tooling
