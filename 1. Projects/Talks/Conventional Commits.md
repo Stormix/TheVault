@@ -1,7 +1,11 @@
 ## What is it?
 
-## What is it for?
+A lightweight convention on top of commit messages that provides a simple set of rules
 
+
+## What does it look like?
+
+## What is it for?
 
 ## How we use it at Metamaze?
 
@@ -11,4 +15,4 @@
 
 ### Hooks
 
-## Standard versionning
+### Standard versionning
