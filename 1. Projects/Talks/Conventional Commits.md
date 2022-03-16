@@ -24,11 +24,14 @@ The specification is as follows:
 
 ## More examples:
 
-com
+### Commit messages with no body
+
+`ci: fix build pipeline`
 
 ### Commit message with scope
 
 `feat(date-parser): add ability to parse DMY dates`
+`fix(Mod-963): remove uneccessary re-renders in table component`
 
 ### Commit message with breaking change
 
@@ -40,6 +43,11 @@ BREAKING CHANGE: use JavaScript features not available in Node 6.
 
 
 ## What is it for?
+
+- Readable commit history
+- Automatically generating CHANGELOGs
+- Automatically determining a semantic version bump
+- Bt
 
 ## How we use it at Metamaze?
 
