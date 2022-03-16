@@ -54,7 +54,7 @@ Refs: 676104e, a215868
 - Readable commit history
 - Automatically generating CHANGELOGs
 - Automatically determining a semantic version bump
-- Better communication overall
+- Better consitency + communication overall
 
 ## How we use it at Metamaze Fullstack?
 
@@ -82,12 +82,15 @@ Metamaze UI
 ![[Screenshot 2022-03-16 at 10.20.04.png]]
 
 ### Hooks
+- Husky & Commit lint (https://github.com/conventional-changelog/commitlint)
 
 
-
-### Standard versionning
-
-Python semantic release
+### Automatic changelogs / releases
+- lerna
+- git-changelog
+- standard-version
+- semantic-version
+- python-semantic-release
 
 
 And more on: https://www.conventionalcommits.org/en/about/
