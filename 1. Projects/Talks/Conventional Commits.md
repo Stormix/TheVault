@@ -1,3 +1,8 @@
+## The issue with git commit -m 
+
+
+
+
 ## What is it?
 
 A lightweight convention on top of commit messages that provides a simple set of rules to create a commit history readable by both humans and machines.
@@ -82,8 +87,9 @@ Metamaze UI
 ![[Screenshot 2022-03-16 at 10.20.04.png]]
 
 ### Hooks
-- Husky & Commit lint (https://github.com/conventional-changelog/commitlint)
-
+- JS: Husky & Commitlint
+- Python: Pre-commit & Commitizen
+- Other, check https://www.conventionalcommits.org/en/about/
 
 ### Automatic changelogs / releases
 - lerna
@@ -94,3 +100,10 @@ Metamaze UI
 
 
 And more on: https://www.conventionalcommits.org/en/about/
+
+## Wrap up
+- Write consistent, complete commit messages
+- Automate more with commit messages
+- Use existing tooling for changelogs, releases, commit prompts, linters
+
+## Thanks
