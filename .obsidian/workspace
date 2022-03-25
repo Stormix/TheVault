@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Talks/Conventional Commits.md",
+            "file": "1. Projects/Project Ideas.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322
+    "width": 462.0319366455078
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Talks/Conventional Commits.md",
+                "file": "1. Projects/Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,18 +125,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 709,
-    "collapsed": true
+    "width": 709
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
-    "1. Projects/Talks/Conventional Commits.md",
-    "Pasted image 20211216115348.png",
-    "Pasted image 20211216115319.png",
+    "1. Projects/Project Ideas.md",
     "1. Projects/Clockwork/Debugging.md",
     "Pasted image 20211216115444.png",
     "Pasted image 20211216115426.png",
     "Pasted image 20211216115408.png",
+    "Pasted image 20211216115348.png",
+    "Pasted image 20211216115319.png",
     "Untitled.md",
     "1. Projects/Metamaze/Metamaze UI/Architecture.md",
     "1. Projects/Metamaze/Metamaze UI/Design System.md"
