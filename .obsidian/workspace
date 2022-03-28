@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Rust/Resources.md",
+            "file": "3. Resources/Developement/General Resources.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Rust/Resources.md",
+                "file": "3. Resources/Developement/General Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +129,7 @@
   },
   "active": "3f0cb1d635d04095",
   "lastOpenFiles": [
+    "3. Resources/Developement/General Resources.md",
     "3. Resources/Developement/Rust/Resources.md",
     "1. Projects/Project Ideas.md",
     "1. Projects/Clockwork/Debugging.md",
@@ -137,7 +138,6 @@
     "Pasted image 20211216115408.png",
     "Pasted image 20211216115348.png",
     "Pasted image 20211216115319.png",
-    "Untitled.md",
-    "1. Projects/Metamaze/Metamaze UI/Architecture.md"
+    "Untitled.md"
   ]
 }
