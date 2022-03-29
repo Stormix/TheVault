@@ -121,3 +121,7 @@ bf059518c4567db4d3676043f75f262fe9d646ac$
 ```
 
 ![[Pasted image 20220329194247.png]]
+
+
+
+find . -type f -name "#*~" | rm 
