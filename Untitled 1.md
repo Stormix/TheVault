@@ -89,4 +89,4 @@ This has 2 parts, it first
 Runs the script: `bash git_commit.sh`
 And then pipes the output to `cat -e`
 
-A | B : take whatever A outputs and run B with it
+A | B : take whatever `A` outputs and run `B` with it
