@@ -123,5 +123,12 @@ bf059518c4567db4d3676043f75f262fe9d646ac$
 ![[Pasted image 20220329194247.png]]
 
 
+A: 
+    bfhdslkf
+    bfhdslkf2
+    bfhdslkf3
+    
+A | B => B "bfhdslkf\nbfhdslkf2\nbfhdslkf3"
+A | xargs B => B "bfhdslkf" "nbfhdslkf2" "nbfhdslkf3"
 
-find . -type f -name "#*~" | rm 
+find . -type f -name "#*~" | xargs rm 
