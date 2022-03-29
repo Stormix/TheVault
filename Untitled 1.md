@@ -49,11 +49,26 @@ And than press `Enter`.
 
 
 ## To start a new git repository aka a new project
-
-git init
-
+`git init`
 To make a commit you need to do:
-
 `git add (filename)` or `git add .` 
-git commit -m ""
+`git commit -m "<a message here>"`
+And then to push the changes:
+`git remote add origin <url>` - you only need to do this if you're making a new git repo that you want to upload
+`git push`
+
+
+## Using an exisitng repository
+`git clone <url>/project.git` - you download a repository
+^ this will make a folder called `project/` and with the downloaded stuff in it
+
+`cd project/`
+`touch newfile`
+`git add .`
+`git commit -m "horray I added a new hoe"`
+`git push`
+
+
+
+## Exo 05
 
