@@ -43,3 +43,17 @@ nano git_commit.sh
 Than you click on `Y` to save or `N` to discard the file
 ![[Pasted image 20220329190315.png]]
 And than press `Enter`.
+
+
+# Git
+
+
+## To start a new git repository aka a new project
+
+git init
+
+To make a commit you need to do:
+
+`git add (filename)` or `git add .` 
+git commit -m ""
+
