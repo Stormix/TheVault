@@ -71,4 +71,22 @@ And then to push the changes:
 
 
 ## Exo 05
+### STUPID EXO
+They ask you to make a file called git_commit.sh
+and then to run it using ```
 
+```
+bash git_commit.sh | cat -e
+
+lkgdfsjgdfjmklgùmdfs$
+fkdsgjmlkfdskjglkùmj$
+gdfkjlsgjpdsfjmgjdfk$
+fkdsgjmlkfdskjglkùmj$
+gdfkjlsgjpdsfjmgjdfk$
+```
+
+This has 2 parts, it first
+Runs the script: `bash git_commit.sh`
+And then pipes the output to `cat -e`
+
+A | B : take whatever A outputs and run B with it
