@@ -92,3 +92,9 @@ And then pipes the output to `cat -e`
 ## Some operators: 
 - A | B : take whatever `A` outputs and run `B` with it
 - A > B : take whatever `A` outputs and puts it in `B` (! it will overwrite the file)
+
+To change the output of git log you need to add
+
+```
+git log --pretty="format:%H"
+```
