@@ -98,3 +98,24 @@ To change the output of git log you need to add
 ```
 git log --pretty="format:%H"
 ```
+
+  
+[](https://git-scm.com/docs/git-log#Documentation/git-log.txt-emHem)_%H_
+
+    commit hash is the commit ID ("The long text you saw in the example ")
+
+[](https://git-scm.com/docs/git-log#Documentation/git-log.txt-emhem)
+
+```
+❯ cat git_commit.sh
+git log --pretty='format:%H' -n 5
+```
+
+```
+❯ bash git_commit.sh | cat -e
+bf059518c4567db4d3676043f75f262fe9d646ac$
+3b0dbe391162219430423010ae72cf1dd4a2554b$
+53c35816c777d332ad48d23cbeeebfa790dad3a0$
+00c47212419627372592e54c7a08886241334dfe$
+438d2b0d931e9aee8e321079fd7511f1a94a2b11%
+```
