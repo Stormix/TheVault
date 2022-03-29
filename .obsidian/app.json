@@ -5,5 +5,11 @@
   "alwaysUpdateLinks": true,
   "useTab": false,
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 65
+  }
 }

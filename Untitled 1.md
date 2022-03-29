@@ -6,18 +6,18 @@
 - so a shell script is a file with an extension `.sh
 
 
-```bash
+```
 touch git_commit.sh
 ```
 
 
-```bash
+```
 sh git_commit.sh
 bash git_commit.sh
 ```
 
 To make a file an executable: 
-```bash
+```
 chmod +x git_commit.sh
 ```
 
@@ -27,13 +27,13 @@ chmod +x git_commit.sh
 
 To make a file or edit a file: 
 
-```bash
+```
 nano filename.whatever
 ```
 
 for example to make a file called git_commit.sh
 
-```bash
+```
 nano git_commit.sh
 ```
 
@@ -119,3 +119,5 @@ bf059518c4567db4d3676043f75f262fe9d646ac$
 00c47212419627372592e54c7a08886241334dfe$
 438d2b0d931e9aee8e321079fd7511f1a94a2b11%
 ```
+
+![[Pasted image 20220329194247.png]]
