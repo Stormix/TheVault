@@ -38,5 +38,8 @@ nano git_commit.sh
 ```
 
 ## How to save, quit ..etc?
-
-CTRL or CMD + X
+`CTRL + X`
+![[Pasted image 20220329190305.png]]
+Than you click on `Y` to save or `N` to discard the file
+![[Pasted image 20220329190315.png]]
+And than press `Enter`.
