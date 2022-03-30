@@ -124,11 +124,11 @@ bf059518c4567db4d3676043f75f262fe9d646ac$
 
 
 A: 
-    bfhdslkf
-    bfhdslkf2
-    bfhdslkf3
+    file1
+    file2
+    file3
     
-A | B => B "bfhdslkf\nbfhdslkf2\nbfhdslkf3"
-A | xargs B => B "bfhdslkf" "nbfhdslkf2" "nbfhdslkf3"
+A | B => B "file1\nfile2\nfile3"
+A | xargs B => B file1 file2 file3
 
 find . -type f -name "#*~" | xargs rm 
