@@ -1,1 +1,2 @@
 - https://tinyprojects.dev/ 
+- https://www.gwern.net/Clippy

@@ -7,8 +7,12 @@
         "id": "5796e9f2e2e8b663",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "3. Resources/Reading/Interesting blogs.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 440.0193977355957
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resources/Reading/Interesting blogs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +130,15 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "3. Resources/Reading/Interesting blogs.md",
     "Untitled 1.md",
+    "Untitled.md",
+    "README.md",
     "3. Resources/Developement/General Resources.md",
     "3. Resources/Developement/Rust/Resources.md",
     "1. Projects/Project Ideas.md",
     "1. Projects/Clockwork/Debugging.md",
     "Pasted image 20211216115444.png",
-    "Pasted image 20211216115426.png",
-    "Pasted image 20211216115408.png",
-    "Pasted image 20211216115348.png",
-    "Pasted image 20211216115319.png"
+    "Pasted image 20211216115426.png"
   ]
 }
