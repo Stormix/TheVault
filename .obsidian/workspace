@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Clockwork/Debugging.md",
+            "file": "3. Resources/Developement/Tools/Docker.md",
             "mode": "source",
             "source": false
           }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brave",
+                "query": "docker build",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Clockwork/Debugging.md",
+                "file": "3. Resources/Developement/Tools/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "3. Resources/Developement/Tools/Docker.md",
     "1. Projects/Clockwork/Debugging.md",
     "3. Resources/Reading/Interesting blogs.md",
     "Untitled 1.md",
@@ -138,7 +139,6 @@
     "3. Resources/Developement/General Resources.md",
     "3. Resources/Developement/Rust/Resources.md",
     "1. Projects/Project Ideas.md",
-    "Pasted image 20211216115444.png",
-    "Pasted image 20211216115426.png"
+    "Pasted image 20211216115444.png"
   ]
 }
