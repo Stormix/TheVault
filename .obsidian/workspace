@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Product matching.md",
+            "file": "3. Resources/Developement/Web/UI & UX.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Product matching.md",
+                "file": "3. Resources/Developement/Web/UI & UX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "3. Resources/Developement/Web/UI & UX.md",
     "Product matching.md",
     "3. Resources/Developement/Tools/Docker.md",
     "1. Projects/Clockwork/Debugging.md",
@@ -138,7 +139,6 @@
     "README.md",
     "3. Resources/Developement/General Resources.md",
     "3. Resources/Developement/Rust/Resources.md",
-    "1. Projects/Project Ideas.md",
-    "Pasted image 20211216115444.png"
+    "1. Projects/Project Ideas.md"
   ]
 }
