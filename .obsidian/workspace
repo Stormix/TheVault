@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Developement/Tools/Docker.md",
+            "file": "1. Projects/Metamaze/Deploy Enrichement.md",
             "mode": "source",
             "source": false
           }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Developement/Tools/Docker.md",
+                "file": "1. Projects/Metamaze/Deploy Enrichement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +130,7 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Deploy Enrichement.md",
     "3. Resources/Developement/Tools/Docker.md",
     "3. Resources/Developement/Web/UI & UX.md",
     "Product matching.md",
@@ -138,7 +139,6 @@
     "Untitled 1.md",
     "README.md",
     "3. Resources/Developement/General Resources.md",
-    "3. Resources/Developement/Rust/Resources.md",
-    "1. Projects/Project Ideas.md"
+    "3. Resources/Developement/Rust/Resources.md"
   ]
 }
