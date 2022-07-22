@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Deploy Enrichement.md",
+            "file": "1. Projects/Metamaze/Static code analysis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.0193977355957
+    "width": 126,
+    "collapsed": true
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Deploy Enrichement.md",
+                "file": "1. Projects/Metamaze/Static code analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +131,7 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Static code analysis.md",
     "1. Projects/Metamaze/Deploy Enrichement.md",
     "3. Resources/Developement/Tools/Docker.md",
     "3. Resources/Developement/Web/UI & UX.md",
@@ -138,7 +140,6 @@
     "3. Resources/Reading/Interesting blogs.md",
     "Untitled 1.md",
     "README.md",
-    "3. Resources/Developement/General Resources.md",
-    "3. Resources/Developement/Rust/Resources.md"
+    "3. Resources/Developement/General Resources.md"
   ]
 }
