@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Projects/Metamaze/Static code analysis.md",
-            "mode": "preview",
+            "file": "3. Resources/Movies/Watchlist.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 126,
-    "collapsed": true
+    "width": 491
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Static code analysis.md",
+                "file": "3. Resources/Movies/Watchlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,15 +130,15 @@
   },
   "active": "5796e9f2e2e8b663",
   "lastOpenFiles": [
+    "3. Resources/Movies/Watchlist.md",
+    "3. Resources/Gaming/Interesting games.md",
+    "README.md",
+    "1. Projects/Clockwork/Clockwork.md",
     "1. Projects/Metamaze/Static code analysis.md",
     "1. Projects/Metamaze/Deploy Enrichement.md",
     "3. Resources/Developement/Tools/Docker.md",
     "3. Resources/Developement/Web/UI & UX.md",
     "Product matching.md",
-    "1. Projects/Clockwork/Debugging.md",
-    "3. Resources/Reading/Interesting blogs.md",
-    "Untitled 1.md",
-    "README.md",
-    "3. Resources/Developement/General Resources.md"
+    "1. Projects/Clockwork/Debugging.md"
   ]
 }
