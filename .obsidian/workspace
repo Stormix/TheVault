@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "5dce3fa60b47c378",
+    "id": "ff68d7e4e6f3663e",
     "type": "split",
     "children": [
       {
-        "id": "5796e9f2e2e8b663",
+        "id": "9272ebd49a223962",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -25,7 +25,6 @@
       {
         "id": "acb304748d515d37",
         "type": "tabs",
-        "dimension": 56.471716203259824,
         "children": [
           {
             "id": "a92c31a4462bb22c",
@@ -33,6 +32,21 @@
             "state": {
               "type": "file-explorer",
               "state": {}
+            }
+          },
+          {
+            "id": "5cbb78a8a42d4607",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#testing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -44,32 +58,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "4c905cd66f1927c7",
-        "type": "tabs",
-        "dimension": 43.528283796740176,
-        "children": [
-          {
-            "id": "5cbb78a8a42d4607",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "docker build",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 361
+    "width": 300
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -99,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Projects/Metamaze/Static code analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,16 +116,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100,
-    "collapsed": true
+    "width": 752
   },
-  "active": "5796e9f2e2e8b663",
+  "active": "bd4c4689cff199fc",
   "lastOpenFiles": [
+    "1. Projects/Metamaze/Static code analysis.md",
+    "README.md",
     "3. Resources/Movies/Watchlist.md",
     "3. Resources/Gaming/Interesting games.md",
-    "README.md",
     "1. Projects/Clockwork/Clockwork.md",
-    "1. Projects/Metamaze/Static code analysis.md",
     "1. Projects/Metamaze/Deploy Enrichement.md",
     "3. Resources/Developement/Tools/Docker.md",
     "3. Resources/Developement/Web/UI & UX.md",
