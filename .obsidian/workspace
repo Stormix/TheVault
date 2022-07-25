@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Resources/Movies/Watchlist.md",
+            "file": "1. Projects/Metamaze/Static code analysis.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491
+    "width": 361
   },
   "right": {
     "id": "9d6edb3d7f4c72e1",
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resources/Movies/Watchlist.md",
+                "file": "1. Projects/Metamaze/Static code analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
